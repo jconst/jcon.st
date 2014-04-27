@@ -1,0 +1,1994 @@
+[
+   {
+      "_id":"52eb1ce8ce5846c7170008b5",
+      "attachments":[
+         {
+            "thumbs":{
+               "s":"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9_s.png",
+               "m":"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9_m.png",
+               "l":"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9_l.png",
+               "o":"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9.png"
+            },
+            "html":{
+               "s":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9_s.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9_m.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9_l.png\" />",
+               "o":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/cd/59/cd59dffa65e0a1dbc61c9bddb6675c4d32b9.png\" />"
+            },
+            "caption":"Presentation Mode"
+         },
+         {
+            "thumbs":{
+               "s":"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41_s.png",
+               "m":"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41_m.png",
+               "l":"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41_l.png",
+               "o":"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41.png"
+            },
+            "html":{
+               "s":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41_s.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41_m.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41_l.png\" />",
+               "o":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/9c/41/9c418ca12e8ebdb29297d4224d7d441a8a41.png\" />"
+            },
+            "caption":"Editing Mode"
+         },
+         {
+            "thumbs":{
+               "xl":"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg",
+               "l":"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg",
+               "m":"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg",
+               "s":"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://i1.ytimg.com/vi/iMBf-scvVbs/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"https://www.youtube.com/embed/iMBf-scvVbs?wmode=transparent\" frameborder=\"0\"></iframe>"
+            },
+            "caption":"Demo song"
+         }
+      ],
+      "createdAt":"2014-01-31T03:47:52.204Z",
+      "description":"Created using max-msp for PAT 201 at U of M. Email/message me for the patcher if you want to check it out.",
+      "descriptionHtml":"Created using max-msp for PAT 201 at U of M. Email/message me for the patcher if you want to check it out.",
+      "slug":"random-dubstep-generator",
+      "title":"Random Dubstep Generator",
+      "updatedAt":"2014-01-31T04:07:34.969Z",
+      "url_id":"c6i",
+      "categories":[
+         "Music",
+         "Computer Science"
+      ],
+      "viewCount":11,
+      "likeCount":1,
+      "tags":[
+
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"52eb1cf6ce5846c7170008bf",
+         "thumbs":{
+            "s":"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_s.png",
+            "m":"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_m.png",
+            "l":"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_l.png",
+            "xl":"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_xl.png",
+            "o":"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202.png"
+         },
+         "html":{
+            "s":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_s.png\" />",
+            "m":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_m.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_l.png\" />",
+            "xl":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202_xl.png\" />",
+            "o":"<img class=\"sAtt\" src=\"https://s3.amazonaws.com/i.seelio.com/45/73/4573bfef5a94c678e2b75d966ac2b0c27202.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "updatedAt":"2014-01-31T04:07:34.954Z",
+            "contribution":"Creator",
+            "contributionHtml":"Creator",
+            "position":"",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"",
+      "full_url":"https://seelio.com/w/c6i/random-dubstep-generator",
+      "api_url":"https://api.seelio.com/v1/works/52eb1ce8ce5846c7170008b5",
+      "escapedLikeNames":[
+         "Emily Keller-Logan"
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"50f5ee78473bd36926000031",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73.png",
+               "l":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73.png",
+               "m":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_xl.jpg",
+               "s":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_m.jpg\" />"
+            },
+            "caption":"Game View"
+         },
+         {
+            "thumbs":{
+               "xl":"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg",
+               "l":"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg",
+               "m":"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg",
+               "s":"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"//www.youtube.com/embed/amMYzgFEZ58?wmode=transparent\" frameborder=\"0\"></iframe>",
+               "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/amMYzgFEZ58/hqdefault.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07.png",
+               "l":"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07.png",
+               "m":"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07_xl.jpg",
+               "s":"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/52/2b/522b486ccf088d7273088e167a801553ac07_m.jpg\" />"
+            },
+            "caption":"Icon"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f.jpg",
+               "l":"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f.jpg",
+               "m":"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f_xl.jpg",
+               "s":"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/4c/fe/4cfe942fab0ca29a7db3f69edebbf44e639f_m.jpg\" />"
+            },
+            "caption":"Main Menu"
+         }
+      ],
+      "createdAt":"2013-01-16T00:04:08.363Z",
+      "description":"Dotsy is a simple yet addictive game for iOS. The goal is to put as many moving dots on the screen as you can without them colliding with each other. Created by myself and Zachary Collins.",
+      "descriptionHtml":"Dotsy is a simple yet addictive game for iOS. The goal is to put as many moving dots on the screen as you can without them colliding with each other. Created by myself and Zachary Collins.",
+      "end":"2012-08-15T00:00:00.000Z",
+      "slug":"dotsy",
+      "start":"2011-03-15T00:00:00.000Z",
+      "title":"Dotsy",
+      "updatedAt":"2013-11-21T23:58:51.732Z",
+      "url_id":"2tc",
+      "categories":[
+         "Entrepreneurship",
+         "Computer Science",
+         "Interaction Design"
+      ],
+      "viewCount":65,
+      "likeCount":0,
+      "tags":[
+         "Software Development",
+         "Mobile Applications",
+         "XCode",
+         "iOS Game Development",
+         "Game Center",
+         "Dotsy",
+         "Entrepreneurship"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260481b517b4ed371000213",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_xl.jpg",
+            "m":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_xl.jpg",
+            "s":"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/66/d7/66d786328aee6ebc71f9c6e541bc53d44b73.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"Zachary designed the UI while I was responsible for writing the code for the game. This included the actual gameplay, as well as the view navigation code, the Game Center integration, and moving Zachary's design into Interface Builder and linking each element to its respective outlet in the code.",
+            "contributionHtml":"Zachary designed the UI while I was responsible for writing the code for the game. This included the actual gameplay, as well as the view navigation code, the Game Center integration, and moving Zachary's design into Interface Builder and linking each element to its respective outlet in the code.",
+            "position":"Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"March 2011 - August 2012",
+      "full_url":"https://seelio.com/w/2tc/dotsy",
+      "api_url":"https://api.seelio.com/v1/works/50f5ee78473bd36926000031",
+      "escapedLikeNames":[
+
+      ],
+      "commentCount":1
+   },
+   {
+      "_id":"50f5e0181880c5241e00002a",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706.png",
+               "l":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706.png",
+               "m":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_xl.jpg",
+               "s":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_m.jpg\" />"
+            },
+            "caption":"Icon"
+         },
+         {
+            "thumbs":{
+               "xl":"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg",
+               "l":"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg",
+               "m":"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg",
+               "s":"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"//www.youtube.com/embed/KtmcQozr9cQ?wmode=transparent\" frameborder=\"0\"></iframe>",
+               "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/KtmcQozr9cQ/hqdefault.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5.png",
+               "l":"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5.png",
+               "m":"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5_xl.jpg",
+               "s":"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/05/64/05645ffe975ba7e1acbd10eda01770d4b1f5_m.jpg\" />"
+            },
+            "caption":"Main Menu"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5.png",
+               "l":"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5.png",
+               "m":"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5_xl.jpg",
+               "s":"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/20/68/2068dc4f676517d8d9d059ee7b8436aa0fb5_m.jpg\" />"
+            },
+            "caption":"Game Mode Selection View"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d.png",
+               "l":"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d.png",
+               "m":"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d_xl.jpg",
+               "s":"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/50/d4/50d44a546f9f0fb6004f98c9b956c24c947d_m.jpg\" />"
+            },
+            "caption":"Letter 2 Word"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001.png",
+               "l":"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001.png",
+               "m":"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001_xl.jpg",
+               "s":"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/a2/8e/a28ead18bf727c3366d730aeb308a61e3001_m.jpg\" />"
+            },
+            "caption":"Letter 2 Word"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0.png",
+               "l":"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0.png",
+               "m":"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0_xl.jpg",
+               "s":"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/96/0e966fb2a8f5730b9b867e059ea7626225c0_m.jpg\" />"
+            },
+            "caption":"Letter 2 Word"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b.png",
+               "l":"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b.png",
+               "m":"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b_xl.jpg",
+               "s":"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/7f/04/7f04d698bf7b9352ca617effe966272b827b_m.jpg\" />"
+            },
+            "caption":"Results View"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8.png",
+               "l":"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8.png",
+               "m":"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8_xl.jpg",
+               "s":"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/7b/ad/7badc7a2158940ec731ff444af080d5c51c8_m.jpg\" />"
+            },
+            "caption":"Word Smith"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c.png",
+               "l":"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c.png",
+               "m":"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c_xl.jpg",
+               "s":"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/6d/b5/6db52418c9b984a55236af800192daa5858c_m.jpg\" />"
+            },
+            "caption":"Reveal the Word"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef.png",
+               "l":"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef.png",
+               "m":"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef_xl.jpg",
+               "s":"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/a3/02/a30284024fab984a4a4cc6483f20f7a264ef_m.jpg\" />"
+            },
+            "caption":"Reveal the Word"
+         }
+      ],
+      "createdAt":"2013-01-15T23:02:48.554Z",
+      "description":"Agoro is a collection of 3 original, exciting multiplayer word games for iOS.\n\nAvailable for download on the App Store here:\nhttps://itunes.apple.com/us/app/agoro-word-game/id549026849?ls=1&amp;mt=8",
+      "descriptionHtml":"Agoro is a collection of 3 original, exciting multiplayer word games for iOS.\n\nAvailable for download on the App Store here:\nhttps://itunes.apple.com/us/app/agoro-word-game/id549026849?ls=1&amp;mt=8",
+      "slug":"agoro",
+      "start":"2011-10-15T00:00:00.000Z",
+      "title":"Agoro",
+      "updatedAt":"2013-11-21T23:58:51.727Z",
+      "url_id":"2ta",
+      "categories":[
+         "Computer Science",
+         "Interaction Design"
+      ],
+      "viewCount":36,
+      "likeCount":1,
+      "tags":[
+         "Mobile Applications",
+         "Objective_C (iOS)",
+         "XCode",
+         "iOS Game Development",
+         "Game Center",
+         "Facebook",
+         "Agoro"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260481b517b4ed37100020d",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_xl.jpg",
+            "m":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_xl.jpg",
+            "s":"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/15/ae/15ae5271bdc1ddcdf75bf00cbff6b3b4a706.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I was the sole developer of this app, responsible for the creation of all the code behind the gameplay, multiplayer, Game Center and Facebook integration, and all other additional features, as well as the arrangement of views and their properties using Interface Builder.",
+            "contributionHtml":"I was the sole developer of this app, responsible for the creation of all the code behind the gameplay, multiplayer, Game Center and Facebook integration, and all other additional features, as well as the arrangement of views and their properties using Interface Builder.",
+            "position":"Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         },
+         {
+            "user":{
+               "_id":"501bd1affca473f97d0002d5",
+               "firstName":"Kwesi",
+               "lastName":"Buabeng",
+               "fullName":"Kwesi Buabeng",
+               "username":"kbuabeng",
+               "api_url":"https://api.seelio.com/v1/users/501bd1affca473f97d0002d5",
+               "full_url":"https://seelio.com/p/by/kwesi-buabeng",
+               "profile_photo_url":"https://seelio.com/media/67/9b/679bc3c62a03bb2ef26df86dd408f38c42f1_ps.jpg",
+               "education":[
+
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"October 2011 - Present",
+      "full_url":"https://seelio.com/w/2ta/agoro",
+      "api_url":"https://api.seelio.com/v1/works/50f5e0181880c5241e00002a",
+      "escapedLikeNames":[
+         "Sharon Chen"
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"50f5e672b3f84e6e2600002a",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b.png",
+               "l":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b.png",
+               "m":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_xl.jpg",
+               "s":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_m.jpg\" />"
+            },
+            "caption":"Icon"
+         },
+         {
+            "thumbs":{
+               "xl":"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg",
+               "l":"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg",
+               "m":"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg",
+               "s":"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"//www.youtube.com/embed/bo9vNzSfDEc?wmode=transparent\" frameborder=\"0\"></iframe>",
+               "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/bo9vNzSfDEc/hqdefault.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18.png",
+               "l":"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18.png",
+               "m":"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18_xl.jpg",
+               "s":"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/f3/18/f31835c6686f7497b52d69d4e9ec13d51a18_m.jpg\" />"
+            },
+            "caption":"Most popular venues in category: sights on the route from Grand Central Station to NYU."
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78.png",
+               "l":"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78.png",
+               "m":"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78_xl.jpg",
+               "s":"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/ed/9d/ed9dbd29b80d38d94b36848d616bf1922d78_m.jpg\" />"
+            },
+            "caption":"Main View"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4.png",
+               "l":"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4.png",
+               "m":"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4_xl.jpg",
+               "s":"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/e8/88/e888301e300f8469472288bc1c25ea1485d4_m.jpg\" />"
+            },
+            "caption":"Launch Screen"
+         }
+      ],
+      "createdAt":"2013-01-15T23:29:54.257Z",
+      "description":"Byway is an iOS app that, given a starting location and a destination, will use the Google Maps and Foursquare APIs to find the most interesting places to check out on the way, within the category that you've specified. Built in ",
+      "descriptionHtml":"Byway is an iOS app that, given a starting location and a destination, will use the Google Maps and Foursquare APIs to find the most interesting places to check out on the way, within the category that you've specified. Built in ",
+      "end":null,
+      "slug":"byway",
+      "start":"2012-09-07T00:00:00.000Z",
+      "title":"Byway",
+      "updatedAt":"2013-11-21T23:58:51.679Z",
+      "url_id":"2tb",
+      "categories":[
+         "Entrepreneurship",
+         "Computer Science"
+      ],
+      "viewCount":50,
+      "likeCount":1,
+      "tags":[
+         "Mobile Applications",
+         "Objective_C (iOS)",
+         "XCode",
+         "Foursquare",
+         "Google Maps",
+         "Software Development",
+         "Entrepreneurship"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260481b517b4ed37100020b",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_xl.jpg",
+            "m":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_xl.jpg",
+            "s":"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/1c/14/1c14370315a82202a5070090944aad1b4c7b.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"Ryan handled the design of this app (and did an exceptional job at it) while I wrote the code. This included interfacing with the Google Maps and Foursqaure APIs, parsing their JSON responses, displaying that data graphically using Apple's MapKit API, and arranging the elements of Ryan's design using UIKit and Interface Builder.",
+            "contributionHtml":"Ryan handled the design of this app (and did an exceptional job at it) while I wrote the code. This included interfacing with the Google Maps and Foursqaure APIs, parsing their JSON responses, displaying that data graphically using Apple's MapKit API, and arranging the elements of Ryan's design using UIKit and Interface Builder.",
+            "position":"Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"September 2012 - Present",
+      "full_url":"https://seelio.com/w/2tb/byway",
+      "api_url":"https://api.seelio.com/v1/works/50f5e672b3f84e6e2600002a",
+      "escapedLikeNames":[
+         "Chris Lueb"
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"521a6b438d8080457a0004cf",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079.png",
+               "l":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079.png",
+               "m":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_xl.jpg",
+               "s":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc.png",
+               "l":"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc.png",
+               "m":"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc_xl.jpg",
+               "s":"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/a1/3d/a13d64d735dd53a4ef169385db29284ac5dc_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f.jpg",
+               "l":"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f.jpg",
+               "m":"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f_xl.jpg",
+               "s":"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/ec/7b/ec7b5a66f468b4ebfad3ca4352a84a685a5f_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201.png",
+               "l":"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201.png",
+               "m":"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201_xl.jpg",
+               "s":"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/08/32/0832181d613b3f8b9b03c44ba40f19485201_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6.png",
+               "l":"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6.png",
+               "m":"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6_xl.jpg",
+               "s":"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/58/e2/58e23aa12c017a31aa38147453f2fb50a7a6_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2.png",
+               "l":"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2.png",
+               "m":"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2_xl.jpg",
+               "s":"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/1c/b6/1cb6accb6a3fb4ae8a0374658dd77903bed2_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370.png",
+               "l":"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370.png",
+               "m":"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370_xl.jpg",
+               "s":"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/29/b8/29b84424c0437badbbd45f4ca16a24f05370_m.jpg\" />"
+            },
+            "caption":null
+         }
+      ],
+      "createdAt":"2013-08-25T20:38:27.221Z",
+      "description":"An app for entrepreneurs to create business ideas, store them in the cloud, and share them with friends. Featured in the App Store's 'New &amp; Noteworthy' and 'Productivity' sections. Downloaded over 50,000 times in 3 months.",
+      "descriptionHtml":"An app for entrepreneurs to create business ideas, store them in the cloud, and share them with friends. Featured in the App Store's 'New &amp; Noteworthy' and 'Productivity' sections. Downloaded over 50,000 times in 3 months.",
+      "end":"2013-06-15T00:00:00.000Z",
+      "slug":"elevatr",
+      "start":"2013-05-15T00:00:00.000Z",
+      "title":"Elevatr",
+      "updatedAt":"2013-11-21T23:32:46.265Z",
+      "url_id":"63s",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":30,
+      "likeCount":0,
+      "tags":[
+
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"526049e9f426c8891d000165",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_xl.jpg",
+            "m":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_xl.jpg",
+            "s":"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/33/fc/33fcbbfde72a48b1ea2fce1261a7e9625079.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I was the sole developer of versions 1.1 through 1.3. (1.1) complete API overhaul switching from Parse to syncing with a proprietary backend. (1.2) exporting your idea to elevatr.com and sharing it with your friends. (1.3) Rich text editing and language internationalization (v1.3 not yet released, pending more language translations).",
+            "contributionHtml":"I was the sole developer of versions 1.1 through 1.3. (1.1) complete API overhaul switching from Parse to syncing with a proprietary backend. (1.2) exporting your idea to elevatr.com and sharing it with your friends. (1.3) Rich text editing and language internationalization (v1.3 not yet released, pending more language translations).",
+            "position":"Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"May 2013 - June 2013",
+      "full_url":"https://seelio.com/w/63s/elevatr",
+      "api_url":"https://api.seelio.com/v1/works/521a6b438d8080457a0004cf",
+      "escapedLikeNames":[
+
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"5171b16a722430ed2b000038",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf.png",
+               "l":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf.png",
+               "m":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_xl.jpg",
+               "s":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_m.jpg\" />"
+            },
+            "caption":"App Store Artwork"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4.jpg",
+               "l":"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4.jpg",
+               "m":"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4_xl.jpg",
+               "s":"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/0c/e7/0ce73edef30fa084c650da6d8828980553e4_m.jpg\" />"
+            },
+            "caption":"Screenshot of main view"
+         },
+         {
+            "thumbs":{
+               "xl":"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg",
+               "l":"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg",
+               "m":"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg",
+               "s":"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"//www.youtube.com/embed/8plq3x8bjIs?wmode=transparent\" frameborder=\"0\"></iframe>",
+               "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/8plq3x8bjIs/hqdefault.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5.jpg",
+               "l":"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5.jpg",
+               "m":"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5_xl.jpg",
+               "s":"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/3e/f5/3ef5a252c7e4b23acd05955579bd143830a5_m.jpg\" />"
+            }
+         }
+      ],
+      "createdAt":"2013-04-19T21:04:42.859Z",
+      "description":"Practice Plans is a simple application for iPhone and iPad that allows coaches/team leaders to create, edit, and share practice plans for their teams, as well as browse plans created by other users. Social/sharing features were implemented in the beta version but never released because the client chose to abandon the project.\n\nThis was written along with Hoop Coach Basketball Playbook as a freelance project for the basketball coach at my high school, as well as for the sake of getting more experience with iOS development. The app is being sold by HoopCoach.org on the app store here: \nhttps://itunes.apple.com/us/app/practice-plans/id455007011?mt=8",
+      "descriptionHtml":"Practice Plans is a simple application for iPhone and iPad that allows coaches/team leaders to create, edit, and share practice plans for their teams, as well as browse plans created by other users. Social/sharing features were implemented in the beta version but never released because the client chose to abandon the project.\n\nThis was written along with Hoop Coach Basketball Playbook as a freelance project for the basketball coach at my high school, as well as for the sake of getting more experience with iOS development. The app is being sold by HoopCoach.org on the app store here: \nhttps://itunes.apple.com/us/app/practice-plans/id455007011?mt=8",
+      "end":"2012-05-15T00:00:00.000Z",
+      "slug":"practice-plans",
+      "start":"2012-01-15T00:00:00.000Z",
+      "title":"Practice Plans",
+      "updatedAt":"2013-11-21T23:32:38.717Z",
+      "url_id":"4ip",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":27,
+      "likeCount":0,
+      "tags":[
+         "iOS",
+         "Core Data",
+         "iCloud",
+         "Mobile Applications",
+         "crowdsourcing"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"526049943e2e340e1d000215",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_xl.jpg",
+            "m":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_xl.jpg",
+            "s":"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com//media/a2/6e/a26e0f179b6c1b235d6af26d7e87be71acaf.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I was the sole developer of this app. Key technologies I worked with included iCloud syncing, Core Data, FTP, Universal Binaries, and Storyboards.",
+            "contributionHtml":"I was the sole developer of this app. Key technologies I worked with included iCloud syncing, Core Data, FTP, Universal Binaries, and Storyboards.",
+            "position":"Designer & Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"January 2012 - May 2012",
+      "full_url":"https://seelio.com/w/4ip/practice-plans",
+      "api_url":"https://api.seelio.com/v1/works/5171b16a722430ed2b000038",
+      "escapedLikeNames":[
+
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"51719ea1304b8c797600004f",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f.png",
+               "l":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f.png",
+               "m":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_xl.jpg",
+               "s":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_m.jpg\" />"
+            },
+            "caption":"App Store Artwork"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb.jpg",
+               "l":"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb.jpg",
+               "m":"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb_xl.jpg",
+               "s":"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/22/cb/22cbe759bfbd5559264bc9b86cff3d3560cb_m.jpg\" />"
+            },
+            "caption":"Screenshot of main screen"
+         },
+         {
+            "thumbs":{
+               "xl":"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg",
+               "l":"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg",
+               "m":"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg",
+               "s":"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"//www.youtube.com/embed/20Gs02aKO8M?wmode=transparent\" frameborder=\"0\"></iframe>",
+               "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/20Gs02aKO8M/hqdefault.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419.jpg",
+               "l":"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419.jpg",
+               "m":"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419_xl.jpg",
+               "s":"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/37/61/37610c71cbd7e3ffa15c8be796c6aa32b419_m.jpg\" />"
+            },
+            "caption":"App store download page"
+         }
+      ],
+      "createdAt":"2013-04-19T19:44:33.483Z",
+      "description":"Hoop Coach Basketball Playbook is an animated basketball play designing app for the iPad. Features token animation between plays, multiple drawing modes, saving plays to the cloud, and more. This was written as a freelance project for the basketball coach at my high school, as well as for the sake of getting more experience with iOS development. The app is now being sold by HoopCoach.org on the app store here:\nhttps://itunes.apple.com/us/app/hoop-coach-basketball-playbook/id428594051?mt=8\n\n As well as another app I made for them called Practice Plans.",
+      "descriptionHtml":"Hoop Coach Basketball Playbook is an animated basketball play designing app for the iPad. Features token animation between plays, multiple drawing modes, saving plays to the cloud, and more. This was written as a freelance project for the basketball coach at my high school, as well as for the sake of getting more experience with iOS development. The app is now being sold by HoopCoach.org on the app store here:\nhttps://itunes.apple.com/us/app/hoop-coach-basketball-playbook/id428594051?mt=8\n\n As well as another app I made for them called Practice Plans.",
+      "end":"2011-12-15T00:00:00.000Z",
+      "slug":"hoop-coach-basketball-playbook",
+      "start":"2011-01-15T00:00:00.000Z",
+      "title":"Hoop Coach Basketball Playbook",
+      "updatedAt":"2013-11-21T23:32:29.852Z",
+      "url_id":"4io",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":53,
+      "likeCount":1,
+      "tags":[
+         "iOS",
+         "Basketball",
+         "Animation",
+         "Drawing",
+         "Mobile Applications"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"52604824517b4ed371000390",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_xl.jpg",
+            "m":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_xl.jpg",
+            "s":"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/c8/af/c8af45f085f6eb23db0f57a44f25a54dbb0f.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I was responsible for the creation of this app from start to finish. The design was based almost entirely on HoopCoach.org's existing web app (also owned by the client) that he had me copy.",
+            "contributionHtml":"I was responsible for the creation of this app from start to finish. The design was based almost entirely on HoopCoach.org's existing web app (also owned by the client) that he had me copy.",
+            "position":"Designer & Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"January 2011 - December 2011",
+      "full_url":"https://seelio.com/w/4io/hoop-coach-basketball-playbook",
+      "api_url":"https://api.seelio.com/v1/works/51719ea1304b8c797600004f",
+      "escapedLikeNames":[
+         "Moses Lee"
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"522253dea68086be19000b63",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b.png",
+               "l":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b.png",
+               "m":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_xl.jpg",
+               "s":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_m.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224.jpg",
+               "l":"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224.jpg",
+               "m":"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224_xl.jpg",
+               "s":"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/eb/25/eb25ea86aef48d47d8eb3e291610c0b93224_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab.jpg",
+               "l":"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab.jpg",
+               "m":"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab_xl.jpg",
+               "s":"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/30/f4/30f4758bf42b2f51892c5645a0dd671ad2ab_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13.jpg",
+               "l":"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13.jpg",
+               "m":"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13_xl.jpg",
+               "s":"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/6b/fb/6bfb118c95c4e2f85061e42b1526947e6f13_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d.jpg",
+               "l":"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d.jpg",
+               "m":"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d_xl.jpg",
+               "s":"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/43/bd43b4c926f76237a9a22fe63f26076ab56d_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8.jpg",
+               "l":"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8.jpg",
+               "m":"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8_xl.jpg",
+               "s":"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/bd/ba/bdba9653758f053ca821b87972e472f2f3b8_m.jpg\" />"
+            },
+            "caption":null
+         }
+      ],
+      "createdAt":"2013-08-31T20:36:46.857Z",
+      "description":"App Store link: https://itunes.apple.com/us/app/benzinga-for-ios/id688949481\n\nBenzinga Stock &amp; News Tracker allows you to manage multiple stock watchlists and see price updates in real time. You can view zoomable graphs, news, and tweets related to a particular stock. You can also view articles from multiple channels on Benzinga.com, as well as view tweets relating to currently trending stocks.\n\nKey skills used in this project:\n-concurrent programming\n-interfacing with web services through RESTKit, AFNetworking, and the Social Framework\n-offline browsing &amp; multiple methods of caching\n-data persistence with Core Data, SQLite, and NSKeyedArchiver\n-interactive graph drawing with Core Plot\n-Unit testing with Kiwi\n-Flat design principles",
+      "descriptionHtml":"App Store link: https://itunes.apple.com/us/app/benzinga-for-ios/id688949481\n\nBenzinga Stock &amp; News Tracker allows you to manage multiple stock watchlists and see price updates in real time. You can view zoomable graphs, news, and tweets related to a particular stock. You can also view articles from multiple channels on Benzinga.com, as well as view tweets relating to currently trending stocks.\n\nKey skills used in this project:\n-concurrent programming\n-interfacing with web services through RESTKit, AFNetworking, and the Social Framework\n-offline browsing &amp; multiple methods of caching\n-data persistence with Core Data, SQLite, and NSKeyedArchiver\n-interactive graph drawing with Core Plot\n-Unit testing with Kiwi\n-Flat design principles",
+      "slug":"benzinga-stock-news-tracker",
+      "start":"2013-06-15T00:00:00.000Z",
+      "title":"Benzinga Stock & News Tracker",
+      "updatedAt":"2013-11-21T21:53:15.126Z",
+      "url_id":"687",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":110,
+      "likeCount":0,
+      "tags":[
+
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260468732ac975571000a1b",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_xl.jpg",
+            "m":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_xl.jpg",
+            "s":"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/73/1f/731f1ea3649a54690b0615ac6ea19cb5bf2b.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"",
+            "contributionHtml":"",
+            "position":"Lead Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"June 2013 - Present",
+      "full_url":"https://seelio.com/w/687/benzinga-stock-news-tracker",
+      "api_url":"https://api.seelio.com/v1/works/522253dea68086be19000b63",
+      "escapedLikeNames":[
+
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"5171c706180b3ff22b000095",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733.jpg",
+               "l":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733.jpg",
+               "m":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_xl.jpg",
+               "s":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_m.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd.png",
+               "l":"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd.png",
+               "m":"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd_xl.jpg",
+               "s":"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/3f/68/3f68aa92d109da261831d7ab3008a92a52cd_m.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2.jpg",
+               "l":"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2.jpg",
+               "m":"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2_xl.jpg",
+               "s":"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/de/e4/dee4fc8e2289250e2bb03420a4fc9e2aacc2_m.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9.jpg",
+               "l":"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9.jpg",
+               "m":"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9_xl.jpg",
+               "s":"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/7a/a0/7aa0624bed96fdeadd3d03da3cc9772cf2b9_m.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a.jpg",
+               "l":"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a.jpg",
+               "m":"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a_xl.jpg",
+               "s":"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/ac/10/ac10b86b61b087e6f7bd41fb15350fc4417a_m.jpg\" />"
+            }
+         }
+      ],
+      "createdAt":"2013-04-19T22:36:54.469Z",
+      "description":"Monarch is an iPad app that connects your profiles on Twitter, Facebook, Foursquare, LinkedIn, and many more social networking and blogging sites, making it as easy and as fast as possible to post status updates, check-ins, and images from one central location. It has earned over 10,000 downloads since its release.\n\nAvailable on the App Store here:\nhttps://itunes.apple.com/us/app/monarch-express/id391026539?mt=8\n\nUnfortunately, since this project was abandoned two years ago, very few (if any) of the APIs still support the requests this app makes, simply because they've changed so quickly.",
+      "descriptionHtml":"Monarch is an iPad app that connects your profiles on Twitter, Facebook, Foursquare, LinkedIn, and many more social networking and blogging sites, making it as easy and as fast as possible to post status updates, check-ins, and images from one central location. It has earned over 10,000 downloads since its release.\n\nAvailable on the App Store here:\nhttps://itunes.apple.com/us/app/monarch-express/id391026539?mt=8\n\nUnfortunately, since this project was abandoned two years ago, very few (if any) of the APIs still support the requests this app makes, simply because they've changed so quickly.",
+      "end":"2011-10-15T00:00:00.000Z",
+      "slug":"monarch",
+      "start":"2010-04-15T00:00:00.000Z",
+      "title":"Monarch",
+      "updatedAt":"2013-11-21T21:53:03.096Z",
+      "url_id":"4iv",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":32,
+      "likeCount":0,
+      "tags":[
+         "iOS",
+         "Mobile Applications",
+         "Social Networking",
+         "Graphic Design",
+         "Facebook",
+         "Twitter",
+         "Foursquare",
+         "LinkedIn"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260460732ac9755710006b4",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_xl.jpg",
+            "m":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_xl.jpg",
+            "s":"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733.jpg\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/02/0e/020e0b61d250867c3db435b04ba90b06f733.jpg\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I was responsible for writing the code and creating the designs for this application. The main challenge was interfacing with a large number of very different APIs with very unique protocols. These APIs included: Facebook, Twitter, LinkedIn, Tumblr, Blogger, Picasa, Foursquare, and Imgur. Specifically, those which used OAuth V1 for authentication proved very challenging. I'm not much of a designer, but I'm most proud of the graphic design in this app out of anything I've done.",
+            "contributionHtml":"I was responsible for writing the code and creating the designs for this application. The main challenge was interfacing with a large number of very different APIs with very unique protocols. These APIs included: Facebook, Twitter, LinkedIn, Tumblr, Blogger, Picasa, Foursquare, and Imgur. Specifically, those which used OAuth V1 for authentication proved very challenging. I'm not much of a designer, but I'm most proud of the graphic design in this app out of anything I've done.",
+            "position":"Designer & Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"April 2010 - October 2011",
+      "full_url":"https://seelio.com/w/4iv/monarch",
+      "api_url":"https://api.seelio.com/v1/works/5171c706180b3ff22b000095",
+      "escapedLikeNames":[
+
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"5171bc53180b3ff22b000056",
+      "attachments":[
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1.png",
+               "l":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1.png",
+               "m":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_xl.jpg",
+               "s":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1.png\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1.png\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_m.jpg\" />"
+            },
+            "caption":"App Store Artwork"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436.jpg",
+               "l":"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436.jpg",
+               "m":"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436_xl.jpg",
+               "s":"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/5c/2a/5c2aa509a1d74f24251bfa2d792f2c925436_m.jpg\" />"
+            },
+            "caption":"Main screen before \"Verbosification\", after automatically loading song lyrics"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50.jpg",
+               "l":"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50.jpg",
+               "m":"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50_xl.jpg",
+               "s":"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/2d/aa/2daa6cb63d165400c33c91aab4d6306ebb50_m.jpg\" />"
+            },
+            "caption":"After Verbosification"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494.jpg",
+               "l":"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494.jpg",
+               "m":"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494_xl.jpg",
+               "s":"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/fc/f4/fcf426af034de9ab6c0433cb9109df690494_m.jpg\" />"
+            },
+            "caption":"Silly fonts enabled"
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4.jpg",
+               "l":"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4.jpg",
+               "m":"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4_xl.jpg",
+               "s":"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/48/a7/48a7e07c3b5ad76645dd626527f19ca640c4_m.jpg\" />"
+            },
+            "caption":"Settings screen"
+         }
+      ],
+      "createdAt":"2013-04-19T21:51:15.224Z",
+      "description":"Verbosify is a funny app which, when given a string of English text, will replace each word with a longer synonym, making it as verbose as possible. The user can tap the dinosaur head to have the text read aloud in an accent of their choosing. After \"Verbosifying\", the user can start over, continue running the algorithm to make the text more nonsensical, or post it to their facebook wall.\nInput can come from the user, from a random friend's facebook status, or from lyrics to a song of the user's choice. It utilizes two different online thesaurus APIs, words.bighugelabs.com and thesaurus.com, as well as the Flite text-to-speech library, Facebook SDK, LyricsWiki API, and the Stanford Natural Language Processing library.",
+      "descriptionHtml":"Verbosify is a funny app which, when given a string of English text, will replace each word with a longer synonym, making it as verbose as possible. The user can tap the dinosaur head to have the text read aloud in an accent of their choosing. After \"Verbosifying\", the user can start over, continue running the algorithm to make the text more nonsensical, or post it to their facebook wall.\nInput can come from the user, from a random friend's facebook status, or from lyrics to a song of the user's choice. It utilizes two different online thesaurus APIs, words.bighugelabs.com and thesaurus.com, as well as the Flite text-to-speech library, Facebook SDK, LyricsWiki API, and the Stanford Natural Language Processing library.",
+      "end":"2011-05-15T00:00:00.000Z",
+      "slug":"verbosify",
+      "start":"2011-01-15T00:00:00.000Z",
+      "title":"Verbosify",
+      "updatedAt":"2013-11-21T21:53:02.958Z",
+      "url_id":"4is",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":35,
+      "likeCount":0,
+      "tags":[
+         "iOS",
+         "Text to Speech",
+         "Natural Language Processing",
+         "Thesaurus",
+         "API",
+         "Facebook",
+         "Dictionary"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260460732ac9755710006b1",
+         "thumbs":{
+            "xl":null,
+            "l":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_xl.jpg",
+            "m":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_xl.jpg",
+            "s":"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_m.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1.png\" />",
+            "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_xl.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_xl.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1_m.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/0e/3f/0e3f1b704f1174f1370dfe263235759f3dd1.png\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I was the sole developer of Verbosify. Key technologies I worked with include interfacing with multiple different types of APIs using both HTTP requests and built-in SDKs, determining parts of speech using the Stanford NLP library, implementing text-to-speech using Flite, XML/JSON parsing, and using the facebook SDK for authentication, wall posts, and pulling feed data.",
+            "contributionHtml":"I was the sole developer of Verbosify. Key technologies I worked with include interfacing with multiple different types of APIs using both HTTP requests and built-in SDKs, determining parts of speech using the Stanford NLP library, implementing text-to-speech using Flite, XML/JSON parsing, and using the facebook SDK for authentication, wall posts, and pulling feed data.",
+            "position":"Designer & Developer",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"January 2011 - May 2011",
+      "full_url":"https://seelio.com/w/4is/verbosify",
+      "api_url":"https://api.seelio.com/v1/works/5171bc53180b3ff22b000056",
+      "escapedLikeNames":[
+
+      ],
+      "commentCount":0
+   },
+   {
+      "_id":"510e81fda3adc7a812000097",
+      "attachments":[
+         {
+            "thumbs":{
+               "xl":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg",
+               "l":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg",
+               "m":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg",
+               "s":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg"
+            },
+            "html":{
+               "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+               "o":"<iframe class=\"sAtt\" src=\"//www.youtube.com/embed/sGZ4UaVXTAg?wmode=transparent\" frameborder=\"0\"></iframe>",
+               "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />"
+            }
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad.jpg",
+               "l":"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad.jpg",
+               "m":"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad_xl.jpg",
+               "s":"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/ca/d6/cad66cc4ba29e15bd16c85b299c5ee3c72ad_m.jpg\" />"
+            },
+            "caption":null
+         },
+         {
+            "thumbs":{
+               "o":"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001.jpg",
+               "l":"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001.jpg",
+               "m":"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001_xl.jpg",
+               "s":"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001_m.jpg"
+            },
+            "html":{
+               "o":"<img class=\"sAtt\" src=\"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001.jpg\" />",
+               "l":"<img class=\"sAtt\" src=\"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001.jpg\" />",
+               "m":"<img class=\"sAtt\" src=\"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001_xl.jpg\" />",
+               "s":"<img class=\"sAtt\" src=\"https://seelio.com/media/ff/68/ff68f4cb741efe6f218e6ae19df56368b001_m.jpg\" />"
+            },
+            "caption":null
+         }
+      ],
+      "createdAt":"2013-02-03T15:27:57.336Z",
+      "description":"A multi-touch effects processor for guitar. Built in 36 hours at MHacks  2013. Currently under further development. Coming to iOS App Store soon!",
+      "descriptionHtml":"A multi-touch effects processor for guitar. Built in 36 hours at MHacks  2013. Currently under further development. Coming to iOS App Store soon!",
+      "slug":"chaos-pad",
+      "start":"2013-02-15T00:00:00.000Z",
+      "title":"Vulse",
+      "updatedAt":"2013-11-21T21:52:51.328Z",
+      "url_id":"34b",
+      "categories":[
+         "Computer Science"
+      ],
+      "viewCount":521,
+      "likeCount":5,
+      "tags":[
+         "Software Development",
+         "Graphic Design",
+         "Technology",
+         "Web Development",
+         "MHacks13",
+         "MHacks2013",
+         "iOS",
+         "Mobile Applications",
+         "Music",
+         "Audio Signal Processing",
+         "Core Audio",
+         "Objective-C++",
+         "Hardware"
+      ],
+      "discussions":[
+
+      ],
+      "cover":{
+         "_id":"5260457632ac97557100048a",
+         "thumbs":{
+            "xl":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg",
+            "l":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg",
+            "m":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg",
+            "s":"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg"
+         },
+         "html":{
+            "xl":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+            "l":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+            "m":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+            "s":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />",
+            "o":"<img class=\"sAtt\" src=\"//i1.ytimg.com/vi/sGZ4UaVXTAg/hqdefault.jpg\" />"
+         }
+      },
+      "collaborators":[
+         {
+            "contribution":"I worked on transferring the user's finger location from the iPhone app to the mac app. Also developed front end visual effects and the promo site. ",
+            "contributionHtml":"I worked on transferring the user's finger location from the iPhone app to the mac app. Also developed front end visual effects and the promo site. ",
+            "position":"Developed website and iOS app",
+            "user":{
+               "_id":"5109720f36488b934a00002a",
+               "firstName":"Billy",
+               "lastName":"Irwin",
+               "fullName":"Billy Irwin",
+               "username":"birwin",
+               "api_url":"https://api.seelio.com/v1/users/5109720f36488b934a00002a",
+               "full_url":"https://seelio.com/p/4an/billy-irwin",
+               "profile_photo_url":"https://seelio.com/media/a0/38/a0389c2634b6eaa9690b43d58c0ce5c34e0d_ps.jpg",
+               "education":[
+                  {
+                     "university":"University of Michigan - Ann Arbor",
+                     "startYear":null,
+                     "endYear":null,
+                     "_id":"5264417e0c96d5491a0023b4",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"5264417e0c96d5491a0023b5",
+                           "id":"5264417e0c96d5491a0023b5"
+                        }
+                     ],
+                     "id":"5264417e0c96d5491a0023b4"
+                  },
+                  {
+                     "university":"University of Michigan - Ann Arbor",
+                     "startYear":null,
+                     "endYear":null,
+                     "_id":"5264417e0c96d5491a0023b2",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"5264417e0c96d5491a0023b3",
+                           "id":"5264417e0c96d5491a0023b3"
+                        }
+                     ],
+                     "id":"5264417e0c96d5491a0023b2"
+                  }
+               ]
+            }
+         },
+         {
+            "contribution":"I was responsible for the creation of all of the audio effects (pitch bend, wah, tremolo, and others) used by our app in Max/MSP, as well as sharing an equal part of the development of the iOS and Mac apps required for the project, specifically MIDI transfer and data modeling.",
+            "contributionHtml":"I was responsible for the creation of all of the audio effects (pitch bend, wah, tremolo, and others) used by our app in Max/MSP, as well as sharing an equal part of the development of the iOS and Mac apps required for the project, specifically MIDI transfer and data modeling.",
+            "position":"Audio Signal Processing,  iOS / Mac App Development",
+            "user":{
+               "_id":"50f5d96a38e479440c00003d",
+               "firstName":"Joseph",
+               "lastName":"Constan",
+               "fullName":"Joseph Constan",
+               "username":"joseph",
+               "api_url":"https://api.seelio.com/v1/users/50f5d96a38e479440c00003d",
+               "full_url":"https://seelio.com/p/422/joseph-constan",
+               "profile_photo_url":"https://seelio.com/media/b1/2c/b12c19a12f0fbb5b95e4b4274aa36688da6f_ps.jpg",
+               "education":[
+                  {
+                     "_id":"524b0ad571e7c6302b0000f5",
+                     "endYear":2015,
+                     "startYear":null,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":"BS",
+                           "field":"Computer Science",
+                           "school":"",
+                           "_id":"52616e956884727574000aa3",
+                           "id":"52616e956884727574000aa3"
+                        }
+                     ],
+                     "id":"524b0ad571e7c6302b0000f5"
+                  }
+               ]
+            }
+         },
+         {
+            "user":{
+               "_id":"501bd1aafca473f97d0001c4",
+               "firstName":"Christopher",
+               "lastName":"O'Neil",
+               "fullName":"Christopher O'Neil",
+               "username":"chrisoneil",
+               "api_url":"https://api.seelio.com/v1/users/501bd1aafca473f97d0001c4",
+               "full_url":"https://seelio.com/p/94/christopher-oneil",
+               "profile_photo_url":"https://seelio.com/img/profile-default-l.png",
+               "education":[
+                  {
+                     "_id":"5227cd5e16fb41260a000a95",
+                     "endYear":2015,
+                     "university":"University of Michigan - Ann Arbor",
+                     "current":true,
+                     "degrees":[
+                        {
+                           "prefix":null,
+                           "field":"Undecided",
+                           "school":"College of Engineering",
+                           "_id":"52616e7f68847275740003c6",
+                           "id":"52616e7f68847275740003c6"
+                        }
+                     ],
+                     "id":"5227cd5e16fb41260a000a95"
+                  }
+               ]
+            }
+         }
+      ],
+      "escapedVisibToGroupNames":[
+
+      ],
+      "escapedGroupNames":[
+
+      ],
+      "dateString":"February 2013 - Present",
+      "full_url":"https://seelio.com/w/34b/chaos-pad",
+      "api_url":"https://api.seelio.com/v1/works/510e81fda3adc7a812000097",
+      "escapedLikeNames":[
+         "Ni Yan",
+         "Moses Lee",
+         "Arthur Shih",
+         "Russell Jahn",
+         "Dave Fontenot"
+      ],
+      "commentCount":4
+   }
+]

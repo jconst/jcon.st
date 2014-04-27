@@ -1,29 +1,86 @@
 <!doctype html>
-<html lang="en" ng-app="myApp">
+<html lang="en" ng-app="JConst">
+
 <head>
   <meta charset="utf-8">
-  <title>My AngularJS App</title>
+  <title>jconst</title>
+  <link rel="icon" type="image/png" href="img/favicon.png">
   <link rel="stylesheet" href="css/app.css"/>
+  <link rel="stylesheet" href="css/sidenav.css"/>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/elusive-webfont.css">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
-<body>
-  <ul class="menu">
-    <li><a href="#/view1">view1</a></li>
-    <li><a href="#/view2">view2</a></li>
-  </ul>
 
-  <div ng-view></div>
+<body ng-app="JConst">
 
-  <div>Angular seed app: v<span app-version></span></div>
+  <nav class="navbar navbar-default navbar-static-top" id="nameHeader">
+      <div class="container">
+        <h1 id="title">joseph constan</h1>
+      </div>
+  </nav>
 
-  <!-- In production use:
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
-  -->
-  <script src="../bower_components/angular/angular.js"></script>
-  <script src="../bower_components/angular-route/angular-route.js"></script>
-  <script src="js/app.js"></script>
-  <script src="js/services.js"></script>
-  <script src="js/controllers.js"></script>
-  <script src="js/filters.js"></script>
-  <script src="js/directives.js"></script>
+  <div class="container main">
+
+    <div class="col-md-2">
+      <div class="bs-sidebar affix">
+        <ul class="nav bs-sidenav">
+                    
+          <li class="active">
+            <a href="#About" class="option">About Me</a>
+
+          </li>
+          <li class="active">
+            <a href="#Work" class="option">Stuff I've Made</a>
+            <ul class="nav bs-sidenav">
+              <li><a href="#Work-iOS" class="subOption" data-ytta-id="-">iOS</a></li>
+              <li><a href="#Work-Max" class="subOption" data-ytta-id="-">Max</a></li>
+              <li><a href="#Work-OpenSource" class="subOption" data-ytta-id="-">Open Source</a></li>
+            </ul>
+          </li>
+          <li class="active">
+            <a href="#Contact" class="option">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-md-9">
+      <div id="About">
+        <h2 class="subHeading">About</h2>
+        <p>Since I was 12 years old, I've been learning to develop mobile apps. Back then, it involved making little games and modules for a linux kernel that a few geniuses across the internet had hacked onto the old iPod Minis and Videos. These days, I work with other talented hackers at the University of Michigan making full-scale applications for iOS, web, and Max/MSP.</p>
+      </div>
+
+      <div id="Work">
+        <h2 class="subHeading">Stuff I've Made</h2>
+        <div ng-controller="projectsController">
+          <div ng-repeat="project in projectList">
+            <a class="proj-name" href="{{project.link}}"><b>{{project.name}}</b></a>
+            <p>{{project.description}}</p>
+
+          </div>
+        </div>
+      </div>
+
+      <div id="Contact">
+        <h2 class="subHeading">Contact</h2>
+
+        <div ng-controller="contactController">
+          <div class="col-xs-2" ng-repeat="contact in contactList">
+            <a href="{{contact.link}}" title="{{contact.name}}">
+              <i class="icon {{contact.icon}} fa-3x"></i>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src='//code.jquery.com/jquery-latest.min.js'></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+  <script type="text/javascript" src="js/app.js"></script>
+  <script type="text/javascript" src="js/services.js"></script>
+  <script type="text/javascript" src="js/controllers.js"></script>
 </body>
 </html>

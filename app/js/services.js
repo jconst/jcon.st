@@ -2,8 +2,44 @@
 
 /* Services */
 
+var services = angular.module('JConst.services', []);
 
-// Demonstrate how to register services
-// In this case it is a simple value service.
-angular.module('myApp.services', []).
-  value('version', '0.1');
+services.value('version', '1.0');
+
+services.factory('projectFetcher', function($q, $timeout, $http) {
+    var ret = {
+        fetch: function(callback) {
+            
+            var deferred = $q.defer();
+
+            $timeout(function() {
+                $http.get('json/projects.json').success(function(data) {
+                    deferred.resolve(data);
+                });
+            }, 30);
+
+            return deferred.promise;
+        }
+    };
+
+    return ret;
+});
+
+services.factory('contactFetcher', function($q, $timeout, $http) {
+    var ret = {
+        fetch: function(callback) {
+            
+            var deferred = $q.defer();
+
+            $timeout(function() {
+                $http.get('json/contact.json').success(function(data) {
+                    deferred.resolve(data);
+                });
+            }, 30);
+
+            return deferred.promise;
+        }
+    };
+
+    return ret;
+});

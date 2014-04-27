@@ -1,0 +1,34 @@
+.bs-sidebar {
+  padding-top: 20px;
+}
+
+/* Disable affix on small screens */
+@media (max-width: 991px) {
+  .bs-sidebar.affix {
+    position: static;
+  }
+}
+
+.option,
+.subOption {
+  text-align: right;
+  background-color: transparent;
+}
+
+.option {
+  color: #444444;
+  font-size: 20px;
+  line-height: 14px;
+}
+
+.subOption {
+  color: #777777;
+  font-size: 18px;
+  line-height: 4px;
+}
+
+.bs-sidebar .nav > li > a:hover,
+.bs-sidebar .nav > li > a:focus {
+  color: #0F0F0F;
+  text-align: right;
+}

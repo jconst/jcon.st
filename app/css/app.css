@@ -1,30 +1,52 @@
 /* app css stylesheet */
 
-.menu {
-  list-style: none;
-  border-bottom: 0.1em solid black;
-  margin-bottom: 2em;
-  padding: 0 0 0.5em;
+body { 
+  background-image: url('../img/cream_pixels.png');
+  background-size: 100px;
+  padding-bottom: 150px;
 }
 
-.menu:before {
-  content: "[";
+a,
+p {
+  font-size: 17px;
+  line-height: 21px;
 }
 
-.menu:after {
-  content: "]";
+#nameHeader {
+  background-color: #F4F4F6;
+  opacity: 90%;
 }
 
-.menu > li {
-  display: inline;
+/* Disable default link hover behavior */ 
+.main a:hover,
+.main a:focus {
+  text-decoration: none;
+  color: #111111;
 }
 
-.menu > li:before {
-  content: "|";
-  padding-right: 0.3em;
+.proj-name {
+  color: #303648;
 }
 
-.menu > li:nth-child(1):before {
-  content: "";
-  padding: 0;
+#title {
+  color: #50383A;
+  font-size: 44px;
+  line-height: 4px;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 12px;
+}
+
+.subHeading {
+  color: #50383A;
+}
+
+/* Contact Icons: */
+.icon {
+  color: #3C4644;
+}
+
+.icon:hover,
+.icon:focus {
+  color: #2C3634;
 }

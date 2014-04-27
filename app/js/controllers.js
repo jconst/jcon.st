@@ -2,10 +2,16 @@
 
 /* Controllers */
 
-angular.module('myApp.controllers', [])
-  .controller('MyCtrl1', [function() {
+var controllers = angular.module('JConst.controllers', []);
 
-  }])
-  .controller('MyCtrl2', [function() {
+controllers.controller('projectsController', function($scope, projectFetcher) {
+    projectFetcher.fetch().then(function(data) {
+        $scope.projectList = data;
+    })
+});
 
-  }]);
+controllers.controller('contactController', function($scope, contactFetcher) {
+    contactFetcher.fetch().then(function(data) {
+        $scope.contactList = data;
+    })
+});

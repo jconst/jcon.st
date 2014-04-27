@@ -2078,7 +2078,7 @@ if(window.jasmine || window.mocha) {
    *       .value('version', 'v1.0.1');
    *
    *
-   *   describe('MyApp', function() {
+   *   describe('JConst', function() {
    *
    *     // You need to load modules that you want to test,
    *     // it loads only the "ng" module by default.
