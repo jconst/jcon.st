@@ -6,6 +6,7 @@ var controllers = angular.module('JConst.controllers', []);
 
 controllers.controller('projectsController', function($scope, projectFetcher) {
     projectFetcher.fetch().then(function(data) {
+    	
         $scope.projectList = data;
     })
 });

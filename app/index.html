@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en" ng-app="JConst">
 
 <head>
@@ -7,8 +7,8 @@
   <link rel="icon" type="image/png" href="img/favicon.png">
   <link rel="stylesheet" href="css/app.css"/>
   <link rel="stylesheet" href="css/sidenav.css"/>
-  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/elusive-webfont.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
 
@@ -16,7 +16,7 @@
 
   <nav class="navbar navbar-default navbar-static-top" id="nameHeader">
       <div class="container">
-        <h1 id="title">joseph constan</h1>
+        <h1 id="title">Joseph Constantakis</h1>
       </div>
   </nav>
 
@@ -45,24 +45,31 @@
       </div>
     </div>
 
-    <div class="col-md-9">
-      <div id="About">
-        <h2 class="subHeading">About</h2>
+    <div class="col-md-8">
+      <div id="About" class="container-fluid">
+        <h2 class="subHeading">About Me</h2>
         <p>Since I was 12 years old, I've been learning to develop mobile apps. Back then, it involved making little games and modules for a linux kernel that a few geniuses across the internet had hacked onto the old iPod Minis and Videos. These days, I work with other talented hackers at the University of Michigan making full-scale applications for iOS, web, and Max/MSP.</p>
       </div>
 
-      <div id="Work">
+      <div id="Work" class="container-fluid">
         <h2 class="subHeading">Stuff I've Made</h2>
         <div ng-controller="projectsController">
-          <div ng-repeat="project in projectList">
-            <a class="proj-name" href="{{project.link}}"><b>{{project.name}}</b></a>
-            <p>{{project.description}}</p>
+          <div ng-repeat="project in projectList" class="container-fluid projectDiv">
+
+            <div ng-class-odd="'col-md-5 pull-right'" ng-class-even="'col-md-5'">
+              <img src="{{project.image}}">
+            </div>
+
+            <div class="col-md-7">
+              <h4><a class="proj-name" href="{{project.link}}"><b>{{project.name}}</b></a></h4>
+              <p>{{project.description}}</p>
+            </div>
 
           </div>
         </div>
       </div>
 
-      <div id="Contact">
+      <div id="Contact" class="container-fluid">
         <h2 class="subHeading">Contact</h2>
 
         <div ng-controller="contactController">
