@@ -1,3 +1,4 @@
+projects =
 [
   {
     "name": "Benzinga Stock & News Tracker",

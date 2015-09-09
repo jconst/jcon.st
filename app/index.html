@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="JConst">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
   <title>jconst</title>
+
   <link rel="icon" type="image/png" href="img/favicon.png">
   <link rel="stylesheet" href="css/app.css"/>
   <link rel="stylesheet" href="css/sidenav.css"/>
@@ -12,8 +13,7 @@
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
 
-<body ng-app="JConst">
-
+<body>
   <nav class="navbar navbar-default navbar-static-top" id="nameHeader">
       <div class="container">
         <h1 id="title">Joseph Constantakis</h1>
@@ -22,6 +22,7 @@
 
   <div class="container main">
 
+    <div class="col-md-1"></div>
     <div class="col-md-2">
       <div class="bs-sidebar affix">
         <ul class="nav bs-sidenav">
@@ -45,7 +46,7 @@
       </div>
     </div>
 
-    <div class="col-md-8">
+    <div class="col-md-7">
       <div id="About" class="container-fluid">
         <h2 class="subHeading">About Me</h2>
         <p>Since I was 12 years old, I've been learning to develop mobile apps. Back then, it involved making little games and modules for a linux kernel that a few geniuses across the internet had hacked onto the old iPod Minis and Videos. These days, I work with other talented hackers at the University of Michigan making full-scale applications for iOS, web, and Max/MSP.</p>
@@ -53,41 +54,30 @@
 
       <div id="Work" class="container-fluid">
         <h2 class="subHeading">Stuff I've Made</h2>
-        <div ng-controller="projectsController">
-          <div ng-repeat="project in projectList" class="container-fluid projectDiv">
-
-            <div ng-class-odd="'col-md-5 pull-right'" ng-class-even="'col-md-5'">
-              <img src="{{project.image}}">
-            </div>
-
-            <div class="col-md-7">
-              <h4><a class="proj-name" href="{{project.link}}"><b>{{project.name}}</b></a></h4>
-              <p>{{project.description}}</p>
-            </div>
-
-          </div>
-        </div>
       </div>
+      <div id="projects"></div>
 
       <div id="Contact" class="container-fluid">
         <h2 class="subHeading">Contact</h2>
-
-        <div ng-controller="contactController">
-          <div class="col-xs-2" ng-repeat="contact in contactList">
-            <a href="{{contact.link}}" title="{{contact.name}}">
-              <i class="icon {{contact.icon}} fa-3x"></i>
-            </a>
-          </div>
-        </div>
-
+        <div id="contacts"></div>
       </div>
     </div>
+    <div class="col-md-1"></div>
   </div>
 
-  <script src='//code.jquery.com/jquery-latest.min.js'></script>
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
-  <script type="text/javascript" src="js/app.js"></script>
-  <script type="text/javascript" src="js/services.js"></script>
-  <script type="text/javascript" src="js/controllers.js"></script>
+  <script src="//fb.me/react-0.13.3.js"></script>
+  <script src="https://fb.me/JSXTransformer-0.13.3.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+  <script type="text/javascript">
+    var contacts = []
+    var projects = []
+  </script>
+
+  <script type="text/javascript" src="json/projects-data.js"></script>
+  <script type="text/javascript" src="json/contacts-data.js"></script>
+
+  <script type="text/jsx" src="js/projects.js"></script>
+  <script type="text/jsx" src="js/contacts.js"></script>
 </body>
 </html>
